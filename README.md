@@ -20,7 +20,6 @@ The database structure consists of a single **Employee** table to store the deta
 | `email`      | String      | Employee's email address               |
 | `department` | String      | Department where the employee works    |
 
-----+
 
 # Developer name:
 ## Ferdinand John Dobli
