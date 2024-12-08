@@ -27,3 +27,9 @@ The database structure consists of a single **Employee** table to store the deta
 
 ## Chris Lawrence Lanaja
 ![image](https://github.com/user-attachments/assets/08811b57-790d-4faf-a40b-1981abb60f29)
+
+## Tristan Kyle Dagatan
+![image](https://github.com/user-attachments/assets/885970c1-2311-4a10-9f10-d7c5336deb02)
+
+## Raphael Miguel Operario
+![image](https://github.com/user-attachments/assets/74bba440-4d34-4ced-bc36-063a99f419ab)
