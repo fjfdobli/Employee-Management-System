@@ -20,22 +20,7 @@ The database structure consists of a single **Employee** table to store the deta
 | `email`      | String      | Employee's email address               |
 | `department` | String      | Department where the employee works    |
 
----
-
-## ERD (Entity Relationship Diagram)
-
-Here is a simple **ERD** representing the database structure:
-
-```plaintext
-+-------------------------------+
-|          Employee              |
-+-------------------------------+
-| id (PK)                        |
-| first_name                     |
-| last_name                      |
-| email                          |
-| department                     |
-+-------------------------------+
+----+
 ```
 # Developer name:
 Ferdinand John Dobli
@@ -43,9 +28,3 @@ Ferdinand John Dobli
 
 Chris Lawrence Lanaja
 ![image](https://github.com/user-attachments/assets/08811b57-790d-4faf-a40b-1981abb60f29)
-
-Tristan Kyle Dagatan
-![image](https://github.com/user-attachments/assets/343905fd-9677-41c7-96e5-8d1c4a812169)
-
-Raphael Miguel Operario
-![image](https://github.com/user-attachments/assets/08d0be87-2bbb-4de9-92e3-bee3569dd5ae)
