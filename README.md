@@ -21,10 +21,10 @@ The database structure consists of a single **Employee** table to store the deta
 | `department` | String      | Department where the employee works    |
 
 ----+
-```
+
 # Developer name:
-Ferdinand John Dobli
+## Ferdinand John Dobli
 ![image](https://github.com/user-attachments/assets/89f33bc9-2d6f-4686-9a94-88e84c914c78)
 
-Chris Lawrence Lanaja
+## Chris Lawrence Lanaja
 ![image](https://github.com/user-attachments/assets/08811b57-790d-4faf-a40b-1981abb60f29)
