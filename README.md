@@ -39,9 +39,13 @@ Here is a simple **ERD** representing the database structure:
 ```
 # Developer name:
 Ferdinand John Dobli
+![image](https://github.com/user-attachments/assets/89f33bc9-2d6f-4686-9a94-88e84c914c78)
 
 Chris Lawrence Lanaja
+![image](https://github.com/user-attachments/assets/08811b57-790d-4faf-a40b-1981abb60f29)
 
 Tristan Kyle Dagatan
+![image](https://github.com/user-attachments/assets/343905fd-9677-41c7-96e5-8d1c4a812169)
 
 Raphael Miguel Operario
+![image](https://github.com/user-attachments/assets/08d0be87-2bbb-4de9-92e3-bee3569dd5ae)
